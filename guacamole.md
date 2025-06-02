@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-* making change again again
+* peel the avocados
